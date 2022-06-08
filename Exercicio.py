@@ -20,7 +20,7 @@ print(variavel1[0:3] + variavel1[3:]) # inicio ate o 3 e do 3 ate o fim
 palavra = 'umapalavrasupergrande'
 print(len(palavra)) #tamanho da string
 print(palavra [: -1]) # palavra - 1 letra
-
+print(palavra)
 print('sao paulo'.title())
 
 #print(variavel1[0]) 
