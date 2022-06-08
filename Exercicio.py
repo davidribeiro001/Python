@@ -24,5 +24,6 @@ print(palavra)
 commit3 = 'Commit3'
 print('sao paulo'.title())
 print(commit3)
+print('Commit4')
 
 #print(variavel1[0]) 
