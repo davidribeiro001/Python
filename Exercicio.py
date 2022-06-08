@@ -21,6 +21,8 @@ palavra = 'umapalavrasupergrande'
 print(len(palavra)) #tamanho da string
 print(palavra [: -1]) # palavra - 1 letra
 print(palavra)
+commit3 = 'Commit3'
 print('sao paulo'.title())
+print(commit3)
 
 #print(variavel1[0]) 
